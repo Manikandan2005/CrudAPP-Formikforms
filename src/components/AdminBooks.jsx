@@ -51,6 +51,9 @@ function AdminBooks() {
   return <>
 
   <NavBar/>
+  <div className='pghead'>
+        <h1>Books Page</h1>
+    </div>
   <Table striped bordered hover variant="light" className='tab'>
   <thead>
     <tr>

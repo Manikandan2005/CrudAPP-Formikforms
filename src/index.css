@@ -33,7 +33,13 @@
 }
 
 .xh{
-  margin-left: 550px !important;
+  margin-left: 580px !important;
   font-weight: bolder !important;
 }
 
+.pghead{
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+  color: rgb(25, 214, 81);
+}

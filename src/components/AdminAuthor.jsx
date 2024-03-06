@@ -50,8 +50,12 @@ function AdminAuthor() {
   },[])
   
   return <>
-    <div className='pagepbg'>
+    
     <NavBar/>
+
+    <div className='pghead'>
+        <h1>Author's Page</h1>
+    </div>
     <Table striped bordered hover variant="light" className='tab' >
     <thead>
       <tr>
@@ -96,7 +100,7 @@ function AdminAuthor() {
         <Button variant='primary mx-auto' onClick={()=>navigate('/createauthor')}>Click to create new Author</Button>
        
     </div>
-    </div>
+  
   </>
   
 }
