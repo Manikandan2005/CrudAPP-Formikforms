@@ -1,8 +1,9 @@
-# React + Vite
+# LIBRARY ADMIN CRUD APP USING FORMIK FORMS REACT
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+1.Used Mockapi to create author and book API that contains respectice details.
+2.Used Formik Forms to validate the fields.
+3.Used axios to do CRUD on the API details.
 
-Currently, two official plugins are available:
+Completed a CRUD for library Admin who can view,edit,delete,create details of authors and books.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+TECH USED: REACT,JSX,CSS,BOOTSTRAP
