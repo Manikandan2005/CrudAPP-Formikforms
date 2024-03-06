@@ -1,0 +1,39 @@
+
+.createWrapper>Button{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: larger;
+  width: 270px;
+  height: 60px;
+}
+
+
+.form{
+  width: 50%;
+  margin-left: 25%;
+  margin-top:5%;
+}
+
+.Cbutton{
+  display: flex;
+  margin-left: 45%;
+  align-items: center;
+}
+
+.tab{
+  max-width:80%;
+  margin-left: 150px;
+  margin-top:50px;
+}
+
+.navtext:hover{
+  color: yellow !important;
+  font-weight: bolder;
+}
+
+.xh{
+  margin-left: 550px !important;
+  font-weight: bolder !important;
+}
+
