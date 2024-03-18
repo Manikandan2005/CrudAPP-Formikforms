@@ -1,9 +1,9 @@
-# LIBRARY ADMIN CRUD APP USING FORMIK FORMS REACT
+<h1>LIBRARY ADMIN CRUD APP USING FORMIK FORMS REACT</h1>
 
-1.Used Mockapi to create author and book API that contains respectice details.
-2.Used Formik Forms to validate the fields.
-3.Used axios to do CRUD on the API details.
+1.Used Mockapi to create author and book API that contains respectice details.<br>
+2.Used Formik Forms to validate the fields.<br>
+3.Used axios to do CRUD on the API details.<br>
 
 Completed a CRUD for library Admin who can view,edit,delete,create details of authors and books.
 
-TECH USED: REACT,JSX,CSS,BOOTSTRAP
+<h3 style="color:red">TECH USED: REACT,JSX,CSS,BOOTSTRAP</h3>
