@@ -6,4 +6,4 @@
 
 Completed a CRUD for library Admin who can view,edit,delete,create details of authors and books.
 
-<h3 style="color🥉">TECH USED: REACT,JSX,CSS,BOOTSTRAP</h3>
+<h3>TECH USED: REACT,JSX,CSS,BOOTSTRAP</h3>
